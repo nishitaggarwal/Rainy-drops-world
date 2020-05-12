@@ -1,2 +1,2 @@
-# Rainy-drops-world
-rainy drops world can be also considered as a wallpaper
+# p5.play-boilerplate
+Boiler plate for p5.play
